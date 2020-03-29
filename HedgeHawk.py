@@ -1,4 +1,3 @@
-import yfinance as yf
 import time
 import matplotlib.pyplot as plt
 
@@ -88,14 +87,3 @@ class HedgeHawk:
 
     def visualize_portfolio():
         pass
-
-
-class Portfolio:
-    def __init__():
-        self.info = 'test portfolio'
-       
-    def visualize(self):
-        pass
-
-
-HedgeHawk()
